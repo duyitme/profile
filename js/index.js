@@ -5899,7 +5899,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Github');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://github.com/Glucozo007', '_blank');
+        window.open('https://github.com/iamduy', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
@@ -5911,7 +5911,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Instagram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.instagram.com/glucozo007/', '_blank');
+        window.open('https://www.instagram.com/i.am_duy/', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
@@ -5929,7 +5929,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Zalo');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://zalo.me/0384594967', '_blank');
+        window.open('https://zalo.me/', '_blank');
     });
 });
 
