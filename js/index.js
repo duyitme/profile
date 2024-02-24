@@ -5892,14 +5892,14 @@ show_date_time();
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Telegram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://t.me/TienMinh294', '_blank');
+        window.open('https://t.me/', '_blank');
     });
 });
 
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Github');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://github.com/iamduy', '_blank');
+        window.open('https://github.com/i-amduy', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
@@ -5917,13 +5917,13 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Tiktok');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://tiktok.com/@glucozo294', '_blank');
+        window.open('https://tiktok.com/@', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Youtube');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.youtube.com/channel/UCCgn4tXIBfOmYu1jaLSMW4w', '_blank');
+        window.open('https://www.youtube.com/', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
