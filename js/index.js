@@ -5899,7 +5899,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Github');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://github.com/i-amduy', '_blank');
+        window.open('https://github.com/duyitme', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
